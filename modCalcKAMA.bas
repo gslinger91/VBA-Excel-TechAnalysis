@@ -2,6 +2,9 @@ Attribute VB_Name = "modKAMA"
 'Calculating KAMA (Kaufman Adaptive Moving Average)
 'Made by George Slinger github/gslinger91 - International Banking MSc Student
 'Insert closing data prices into column A with a Header
+' run with calcKAMA
+' before: https://i.gyazo.com/8e652e302b381db39b08031987e5867f.png
+' after: https://i.gyazo.com/4c6ac4cfba983f1b4bfbb70af0de8994.png
 
 Option Explicit
 
